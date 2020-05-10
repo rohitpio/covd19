@@ -1,23 +1,14 @@
-{
-	"cases_time_series": [
-		{
-			"dailyconfirmed": "1",
-			"dailydeceased": "0",
-			"dailyrecovered": "0",
-			"date": "30 January ",
-			"totalconfirmed": "1",
-			"totaldeceased": "0",
-			"totalrecovered": "0"
-		},
-		
-		{
-			"dailyconfirmed": "2971",
-			"dailydeceased": "128",
-			"dailyrecovered": "1295",
-			"date": "05 May ",
-			"totalconfirmed": "49405",
-			"totaldeceased": "1694",
-			"totalrecovered": "14140"
-		}
-	]
-}
+[
+  {
+    "id": 1,
+    "title": "Post 1"
+  },
+  {
+    "id": 2,
+    "title": "Post 2"
+  },
+  {
+    "id": 3,
+    "title": "Post 3"
+  }
+]
